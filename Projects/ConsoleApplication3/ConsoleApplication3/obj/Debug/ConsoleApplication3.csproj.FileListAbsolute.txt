@@ -1,6 +1,0 @@
-\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
-\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
