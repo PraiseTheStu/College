@@ -1,0 +1,6 @@
+\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+\\gcastudentfs.glasgowclyde.ac.uk\homedrives$\20178670\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
